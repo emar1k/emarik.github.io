@@ -1,0 +1,18 @@
+#menu-2 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-2.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu {
+  background: #2c2c2c;
+}
+#menu-2 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-2 .mbr-navbar__items a STRONG {
+  font-size: 16px;
+}
+#header8-1 .sub-form h5 {
+  background: #3498db;
+}

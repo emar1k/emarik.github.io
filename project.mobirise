@@ -1,0 +1,221 @@
+{
+  "settings": {
+    "name": "EVAmsk",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "Sleek",
+      "title": "Sleek",
+      "styling": {},
+      "additionalSetColors": [
+        "#2f3d54"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "html_before": "",
+    "headbody": "",
+    "botbody": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "seo-meta": "",
+    "globalfooter": "",
+    "siteUrl": "undefined",
+    "versionFirst": "4.7.6",
+    "uniqCompNum": 7,
+    "versionPublish": "4.7.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            "&.mbr-navbar--auto-collapse.mbr-navbar--open .mbr-navbar__menu": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a STRONG": {
+              "font-size": "16px"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">SAMPLE PAGE</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-14\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>Закажи звонок!</strong></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-primary\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><strong>позвонить+7925-495-9010</strong></a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Sleek",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a data-app-btn=\"true\" class=\"navbar-brand text-primary\" href=\"\" data-app-selector=\".mbr-brand__name a\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">EVAmsk</a>",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-2"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "lineColor": "#3498db",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/6.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.4
+          },
+          "title": "Welcome to the Sleek landing page",
+          "text": "Lorem ipsum dolor sit amet adipiscing elit curabitur sapien leo consequat sed aliquam at convallis sit amet metus. Vivamus malesuada ex in placerat bibendum, est dui euismod sapien, eget tincidunt nunc ipsum ut mauris.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\">Purchase Now</a><a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\">Learn More</a>",
+          "formButton": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Get the free Trial</a>",
+          "formTitle1": "Sub",
+          "formTitle2": "100%Moneyback Guarantee",
+          "form": {
+            "action": "chelubey87@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling our form!"
+            },
+            "fields": {
+              "fname": {
+                "visible": true,
+                "title": "First Name",
+                "customTitle": "Иван"
+              },
+              "lname": {
+                "visible": true,
+                "title": "Last Name",
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "+79..."
+              }
+            }
+          },
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header8",
+          "_anchor": "header8-1",
+          "_styles": {
+            ".sub-form h5": {
+              "background": "#3498db"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showCaptions": true,
+            "firstText": "Закажи звонок сейчас",
+            "secondText": "Register. Go Risk Free",
+            "linkText": "http://#",
+            "linkColor": "#c62020",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/sleek/components/_images/bg/4.jpg",
+            "parallax": true,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgColorRadio": true,
+            "bgColor": "#2f3d54",
+            "overlay": false,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.4
+          },
+          "title": "Get the product and enter the success",
+          "text": "Suspendisse at nisl libero. Ut sed vestibulum ex. Aliquam hendrerit nulla vel sem condimentum ultrices. Pellentesque sit amet augue mi. Nulla cursus auctor mi, vitae tincidunt enim sodales.",
+          "caption": "<em>*No credit card needed</em>",
+          "ft": "sdsdsdsdsd",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-6"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Welcome to the Sleek",
+          "text": "Lorem ipsum dolor sit amet adipiscing elit curabitur sapien leo consequat sed aliquam at convallis sit amet metus. Vivamus malesuada ex in placerat bibendum, est dui euismod sapien, eget tincidunt nunc ipsum ut mauris.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">Purchase Now</a><a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-primary\" href=\"#\">Learn More</a>",
+          "alias": "sleek/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-4"
+        }
+      ]
+    }
+  }
+}
